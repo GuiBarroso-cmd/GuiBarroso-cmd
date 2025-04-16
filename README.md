@@ -4,7 +4,7 @@
 
 Olá, eu sou o Gui! Estudante e desenvolvedor focado em back-end com JavaScript. Sou apaixonado por tecnologia, sistemas operacionais e linguagens de programação. Gosto de aprender explorando projetos práticos e colaborando com a comunidade. Sinta-se à vontade para entrar em contato para trocar ideia ou contribuir em algum projeto!
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=GuiBarroso-cmd&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBarroso-cmd&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiBarroso-cmd&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117)
 
